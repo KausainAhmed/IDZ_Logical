@@ -9,6 +9,6 @@ public static void main(String[] args) {
 			continue;
 		}else
 		System.out.println(i);
-	}
+	  }
 }
 }
