@@ -18,6 +18,7 @@ public class RevNum {
 	}
 }
 
+//reverse a string
 class RevStr {
 	public static String Rev(String name) {
 		String reverse = " ";
